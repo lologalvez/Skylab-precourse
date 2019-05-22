@@ -1,1 +1,0 @@
-"# Skylab precourse exercises & projects" 
